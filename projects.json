@@ -1,8 +1,14 @@
 [
-  {
-    "title": "test project",
-    "description": "test description",
-    "image": "assets/test.webp",
-    "link": "https://github.com/VictorFleiser/VictorFleiser.github.io"
-  }
+	{
+		"title": "test project 1",
+		"description": "test description",
+		"image": "assets/test.webp",
+		"link": "https://github.com/VictorFleiser/VictorFleiser.github.io"
+	},
+	{
+		"title": "test project 2",
+		"description": "descrption",
+		"image": "assets/images/test.webp",
+		"link": "https://github.com/VictorFleiser/VictorFleiser.github.io"
+	}
 ]
