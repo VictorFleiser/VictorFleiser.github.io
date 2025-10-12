@@ -1,14 +1,14 @@
 [
 	{
-		"title": "test project 1",
-		"description": "test description",
-		"image": "assets/test.webp",
-		"link": "https://github.com/VictorFleiser/VictorFleiser.github.io"
+		"title": "Active Perception with VLM",
+		"description": "A project on active perception using vision-language models (VLMs) to improve perception and classification tasks in robotics.\nDone at the Institute of Intelligent Systems and Robotics ([ISIR](https://www.isir.upmc.fr/)) from Jan 2025 to May 2025.\n[Project description](https://ai2d.hosted.lip6.fr/node/742)",
+		"image": "assets/placeholder1024.png",
+		"link": "https://github.com/EGarrabe/Perception-active/tree/main"
 	},
 	{
-		"title": "test project 2",
-		"description": "descrption",
-		"image": "assets/images/test.webp",
-		"link": "https://github.com/VictorFleiser/VictorFleiser.github.io"
+		"title": "Multi agents Coordination",
+		"description": "A Multi-agent coordination project using the [JADE](https://jade.tilab.com/) / [DEDALE](https://dedale.gitlab.io/) framework.\nThe project involves implementing solutions for :\n - distributed exploration and mapping of an unknown environment\n - efficient resource collection, ",
+		"image": "assets/images/placeholder1024.png",
+		"link": "https://github.com/VictorFleiser/Projet-Multi-Agent-Jade---Dedale-FoSyMa-"
 	}
 ]
