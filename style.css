@@ -11,7 +11,7 @@ header, footer {
 
 .projects-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));	/*400px*/
   gap: 1rem;
   padding: 1rem;
 }
@@ -27,6 +27,10 @@ header, footer {
   height: auto;
   display: block;
   transition: transform 0.4s ease;
+}
+
+.description {
+  margin: 1rem;
 }
 
 .overlay {

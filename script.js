@@ -15,7 +15,7 @@ fetch('projects.json')
         <img src="${p.image}" alt="${p.title}">
         <div class="overlay">
           <h2>${p.title}</h2>
-          <p>${parseMarkdownBasics(p.description)}</p>
+          <p class="description">${parseMarkdownBasics(p.description)}</p>
           <a href="${p.link}" target="_blank">View Repo</a>
         </div>
       </div>
