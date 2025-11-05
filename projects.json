@@ -2,97 +2,129 @@
 	{
 		"title": "Active Perception with VLM",
 		"description": "A project on active perception using vision-language models (VLMs) to improve perception and classification tasks in robotics.\nDone at the Institute of Intelligent Systems and Robotics ([ISIR](https://www.isir.upmc.fr/)).\nDone from Jan 2025 to May 2025 as part of the [Projet AI2D](https://androide.lip6.fr/node/718) course : [Project description](https://ai2d.hosted.lip6.fr/node/742)",
-		"image": "assets/pand.png",
-		"link": "https://github.com/EGarrabe/Perception-active/tree/main"
+		"image": "assets/projects/pand.png",
+		"link": "https://github.com/EGarrabe/Perception-active/tree/main",
+		"tags": ["Robotics", "Ollama", "Computer Vision", "Python"],
+		"date": "2024 - 2024"
 	},
 	{
 		"title": "Multi agents Coordination",
 		"description": "A Multi-agent coordination project using the [JADE](https://jade.tilab.com/) / [DEDALE](https://dedale.gitlab.io/) framework.\nThe project involves implementing solutions for :\n - distributed exploration and mapping of an unknown environment\n - achieving tasks requiring collaboration between multiple agents\n - handling efficiently deadlocks\n - dealing with adversarial agents that can block paths and move objectives\nDone from Jan 2025 to May 2025 as part of the [FoSyMa](https://androide.lip6.fr/node/21) course",
-		"image": "assets/fosyma.png",
-		"link": "https://github.com/VictorFleiser/Projet-Multi-Agent-Jade---Dedale-FoSyMa-"
+		"image": "assets/projects/fosyma.png",
+		"link": "https://github.com/VictorFleiser/Projet-Multi-Agent-Jade---Dedale-FoSyMa-",
+		"tags": ["Multi-agent", "Jade", "Java"],
+		"date": "2024"
 	},
 	{
 		"title": "MOSIMA",
 		"description": "THIS PROJECT IS STILL IN PROGRESS\n\nA Multi-agent project using the [GAMA](https://gama-platform.org/) platform.\nThe project evaluates the realism of the utopian society from the book [Ecotopia](https://en.wikipedia.org/wiki/Ecotopia) by simulating the effects of implementing its main principles on the country of France.\n The project is done in teams of 8 using the agile method.\nDone from Nov 2025 to Jan 2026 as part of the [MOSIMA](https://androide.lip6.fr/node/16) course",
-		"image": "assets/ecotopia.png",
-		"link": "https://github.com/VictorFleiser?tab=repositories"
+		"image": "assets/projects/ecotopia.png",
+		"link": "https://github.com/VictorFleiser?tab=repositories",
+		"tags": ["Multi-agent", "Gama"],
+		"date": "2024"
 	},
 	{
 		"title": "AI Robots simulation",
 		"description": "TODO",
-		"image": "assets/AIRobots_tp.png",
-		"link": "https://github.com/VictorFleiser/SU-LU3IN025-robots"
+		"image": "assets/projects/AIRobots_tp.png",
+		"link": "https://github.com/VictorFleiser/SU-LU3IN025-robots",
+		"tags": ["Python"],
+		"date": "2024"
 	},
 	{
 		"title": "Mobile App : Skyjo Tracker",
 		"description": "A mobile app for Android to track games for the card game [Skyjo](https://fr.wikipedia.org/wiki/Skyjo).\nThe app is written in Java using [Android Studio](https://developer.android.com/studio)\n the app includes features such as :\n - tracking games in real time by logging the player actions\n - tracking statistics for each player over sessions\n - saving games and sessions for statistics\nDone from Jul 2024 to Aug 2024 for tracking games with friends and family",
-		"image": "assets/skyjo.png",
-		"link": "https://github.com/VictorFleiser/SkyjoTracker_MobileApp"
+		"image": "assets/projects/skyjo.png",
+		"link": "https://github.com/VictorFleiser/SkyjoTracker_MobileApp",
+		"tags": ["AndroidStudio", "Java"],
+		"date": "2024"
 	},
 	{
 		"title": "Reddit-like website in React",
 		"description": "TODO",
-		"image": "assets/notreddit.png",
-		"link": "https://github.com/VictorFleiser?tab=repositories"
+		"image": "assets/projects/notreddit.png",
+		"link": "https://github.com/VictorFleiser?tab=repositories",
+		"tags": ["HTML/CSS/JavaScript", "React"],
+		"date": "2024"
 	},
 	{
 		"title": "Wordle in Haskell",
 		"description": "TODO",
-		"image": "assets/wordle.png",
-		"link": "https://github.com/VictorFleiser/Wordle-in-Haskell"
+		"image": "assets/projects/wordle.png",
+		"link": "https://github.com/VictorFleiser/Wordle-in-Haskell",
+		"tags": ["Haskell"],
+		"date": "2024"
 	},
 	{
 		"title": "WhaleWhisper",
 		"description": "TODO",
-		"image": "assets/whaleWisper.png",
-		"link": "https://github.com/VictorFleiser?tab=repositories"
+		"image": "assets/projects/whaleWisper.png",
+		"link": "https://github.com/VictorFleiser?tab=repositories",
+		"tags": ["Matlab"],
+		"date": "2024"
 	},
 	{
 		"title": "microprocessor in VHDL",
 		"description": "TODO",
-		"image": "assets/placeholder1024.png",
-		"link": "https://github.com/VictorFleiser/VHDL-Processeur"
+		"image": "assets/projects/placeholder1024.png",
+		"link": "https://github.com/VictorFleiser/VHDL-Processeur",
+		"tags": ["VHDL", "Robotics"],
+		"date": "2024"
 	},
 	{
 		"title": "Labyrinth (Ravensburger board game) competition in C",
 		"description": "TODO",
-		"image": "assets/labyrinth.jpg",
-		"link": "https://github.com/VictorFleiser/Labyrinth_info_S5_2022"
+		"image": "assets/projects/labyrinth.jpg",
+		"link": "https://github.com/VictorFleiser/Labyrinth_info_S5_2022",
+		"tags": ["C"],
+		"date": "2024"
 	},
 	{
 		"title": "Nine men's morris in Assembly",
 		"description": "TODO",
-		"image": "assets/placeholder1024.png",
-		"link": "https://github.com/VictorFleiser/Moulin"
+		"image": "assets/projects/placeholder1024.png",
+		"link": "https://github.com/VictorFleiser/Moulin",
+		"tags": ["Assembly"],
+		"date": "2024"
 	},
 	{
 		"title": "Calculator in VHDL",
 		"description": "TODO",
-		"image": "assets/calculator.png",
-		"link": "https://github.com/VictorFleiser/CalculatriceVHDL"
+		"image": "assets/projects/calculator.png",
+		"link": "https://github.com/VictorFleiser/CalculatriceVHDL",
+		"tags": ["VHDL", "Robotics"],
+		"date": "2024"
 	},
 	{
 		"title": "Eaubonne-Roumanie Association Website",
 		"description": "TODO",
-		"image": "assets/eaubonne_roumanie_website.png",
-		"link": "https://github.com/VictorFleiser/eaubonne-roumanie.github.io"
+		"image": "assets/projects/eaubonne_roumanie_website.png",
+		"link": "https://github.com/VictorFleiser/eaubonne-roumanie.github.io",
+		"tags": ["HTML/CSS/JavaScript"],
+		"date": "2024"
 	},
 	{
 		"title": "Nonograms Solver",
 		"description": "TODO",
-		"image": "assets/Nonograms.png",
-		"link": "https://github.com/VictorFleiser?tab=repositories"
+		"image": "assets/projects/Nonograms.png",
+		"link": "https://github.com/VictorFleiser?tab=repositories",
+		"tags": ["Python"],
+		"date": "2024"
 	},
 	{
 		"title": "Position estimation using ArUco tags",
 		"description": "Participation at the Robotech association in Polytech Sorbonne for attempting the French Robotic Cup",
-		"image": "assets/placeholder1024.png",
-		"link": "https://github.com/VictorFleiser?tab=repositories"
+		"image": "assets/projects/placeholder1024.png",
+		"link": "https://github.com/VictorFleiser?tab=repositories",
+		"tags": ["Python", "Computer Vision"],
+		"date": "2024"
 	},
 	{
 		"title": "Line follower robot",
 		"description": "TODO",
-		"image": "assets/line_following_robot.png",
-		"link": "https://github.com/VictorFleiser?tab=repositories"
+		"image": "assets/projects/line_following_robot.png",
+		"link": "https://github.com/VictorFleiser?tab=repositories",
+		"tags": ["Robotics", "C"],
+		"date": "2024"
 	}
 ]

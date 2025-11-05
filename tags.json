@@ -1,0 +1,21 @@
+[
+	{ "name": "Python", "category": "Language", "logo": "assets/logos/python.png" },
+	{ "name": "Java", "category": "Language", "logo": "assets/logos/java.jpg" },
+	{ "name": "C", "category": "Language", "logo": "assets/logos/c.png" },
+	{ "name": "HTML/CSS/JavaScript", "category": "Language", "logo": "assets/logos/web.png" },
+	{ "name": "Assembly", "category": "Language", "logo": "assets/logos/assembly.jpg" },
+	{ "name": "Matlab", "category": "Language", "logo": "assets/logos/matlab.png" },
+	{ "name": "VHDL", "category": "Language", "logo": "assets/logos/vhdl.png" },
+	{ "name": "Haskell", "category": "Language", "logo": "assets/logos/haskell.png" },
+
+	{ "name": "Gama", "category": "Platform", "logo": "assets/logos/gama.png" },
+	{ "name": "Jade", "category": "Platform", "logo": "assets/logos/jade.png" },
+	{ "name": "Ollama", "category": "Platform", "logo": "assets/logos/ollama.png" },
+	{ "name": "React", "category": "Platform", "logo": "assets/logos/react.png" },
+	{ "name": "AndroidStudio", "category": "Platform", "logo": "assets/logos/android_studio.png" },
+
+	{ "name": "Multi-agent", "category": "Subject", "logo": "assets/logos/multi_agent.png" },
+	{ "name": "Computer Vision", "category": "Subject", "logo": "assets/logos/vision.jpg" },
+	{ "name": "Robotics", "category": "Subject", "logo": "assets/logos/robotics.png" }
+	
+]

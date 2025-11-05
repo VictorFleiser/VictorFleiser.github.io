@@ -53,3 +53,76 @@ header, footer {
 .project:hover .overlay {
   opacity: 1;
 }
+
+
+
+
+
+
+/* Filter section */
+#filters {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 1rem;
+  background: #fafafa;
+  border-bottom: 1px solid #ddd;
+}
+
+.filter-column {
+  flex: 1;
+}
+
+.filter-column h3 {
+  margin: 0 0 .5rem 0;
+}
+
+.filter-option {
+  display: flex;
+  align-items: center;
+  margin-bottom: .5rem;
+  gap: .5rem;
+}
+
+.filter-option img {
+  width: 20px;
+  height: 20px;
+}
+
+.toggle-btn {
+  background: none;
+  border: none;
+  color: #007bff;
+  cursor: pointer;
+  padding: 0;
+}
+
+.project-info {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  padding: .5rem;
+  background: rgba(0,0,0,0.2);
+  color: white;
+  font-size: .8rem;
+}
+
+.project-tags {
+  display: flex;
+  gap: .3rem;
+}
+
+.project-tags img {
+  width: 80px;
+  height: 80px;
+}
+
+.project-date {
+  font-weight: bold;
+  font-size: 3.0rem;
+  padding-right: 0.9rem;
+}
